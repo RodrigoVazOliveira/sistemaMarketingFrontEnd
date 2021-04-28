@@ -1,1 +1,3 @@
-let conteudo_principal = document.getElementById('conteudo-principal');
+let conteudo_principal = document.getElementById('conteudo-principal')
+
+console.log(respostaCategoria);
